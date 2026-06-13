@@ -61,8 +61,7 @@ You'll be prompted for:
 Enter directory to search (default: samplefiles):
 Enter keyword to search for (default: objects):
 Enter number of threads to use (default: 4):
-Enter file extensions to search, comma-separated
-(e.g. txt,java,md  |  leave empty for ALL files):
+(e.g. ,java,md  |  leave empty for ALL files):
 ```
 
 Press **Enter** on any prompt to use the default shown in brackets.
@@ -74,7 +73,6 @@ Press **Enter** on any prompt to use the default shown in brackets.
 samplefiles
 java
 4
-txt
 ```
 
 **Search your whole Documents folder for "TODO" in source code:**
@@ -82,7 +80,6 @@ txt
 C:\Users\YourName\Documents
 TODO
 8
-java,py,js
 ```
 
 **Search everything (no extension filter):**
@@ -105,7 +102,6 @@ config
   Directory : samplefiles
   Keyword   : java
   Threads   : 4
-  File types: [.txt]
 
 Found 6 file(s) to search.
 
@@ -150,8 +146,6 @@ main()
 
 - [ ] Exclude folders like `node_modules`, `.git`, `target` for faster large-directory searches
 - [ ] Support multiple keywords / regex search
-- [ ] Export results to a `.txt` or `.csv` report
-- [ ] Add a Swing GUI with a folder picker and live results table
 - [ ] Benchmark: compare search time with 1 thread vs 4 vs 8
 
 ---
