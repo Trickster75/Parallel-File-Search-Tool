@@ -1,0 +1,5 @@
+Relational databases store data in tables with rows and columns.
+SQL is the standard language for querying relational databases.
+Java developers often use JDBC to connect to databases.
+Popular Java frameworks like Hibernate simplify database access.
+NoSQL databases offer flexible schemas for unstructured data.

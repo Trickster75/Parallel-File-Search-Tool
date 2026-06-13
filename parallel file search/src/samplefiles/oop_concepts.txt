@@ -1,0 +1,5 @@
+Object-Oriented Programming is a paradigm based on objects.
+Java is a purely object-oriented language at its core.
+The four pillars are: Encapsulation, Inheritance, Polymorphism, Abstraction.
+In Java, everything (except primitives) is an object.
+Classes in Java serve as blueprints for creating objects.

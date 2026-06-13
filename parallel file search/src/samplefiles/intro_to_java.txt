@@ -1,0 +1,5 @@
+Java is a high-level, class-based, object-oriented programming language.
+It was designed to have as few implementation dependencies as possible.
+Java applications are compiled to bytecode that runs on the Java Virtual Machine (JVM).
+Java is one of the most popular programming languages in the world.
+It is widely used for building web applications, mobile apps, and enterprise software.

@@ -1,0 +1,5 @@
+Python is a high-level, interpreted programming language.
+Python emphasizes code readability and simplicity.
+It supports multiple programming paradigms.
+Python is used in data science, machine learning, and scripting.
+Unlike Java, Python uses indentation instead of braces.

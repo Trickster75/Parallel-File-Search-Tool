@@ -1,0 +1,5 @@
+Sorting algorithms arrange data in a specific order.
+Binary search works on sorted arrays with O(log n) complexity.
+Graph algorithms like DFS and BFS are fundamental in CS.
+Dynamic programming solves problems by breaking them into subproblems.
+Java provides built-in sorting via Collections.sort() and Arrays.sort().

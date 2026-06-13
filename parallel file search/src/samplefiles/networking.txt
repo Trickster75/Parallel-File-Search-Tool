@@ -1,0 +1,5 @@
+Computer networks enable communication between devices.
+TCP/IP is the foundational protocol of the internet.
+HTTP is used for web communication.
+REST APIs allow applications to communicate over HTTP.
+Sockets in Java allow low-level network programming.
